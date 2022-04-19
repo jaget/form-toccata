@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/jaget"
   },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Simple config driven form generator",
   "scripts": {
     "rollup": "rollup -c"
